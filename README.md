@@ -46,3 +46,49 @@
 | ![Slide 7](Presentation%20Slides/Slide7.PNG?raw=true "Slide 7")|![Slide 8](Presentation%20Slides/Slide8.PNG?raw=true "Slide 8")|![Slide 9](Presentation%20Slides/Slide9.PNG?raw=true "Slide 9")|
 | ![Slide 10](Presentation%20Slides/Slide10.PNG?raw=true "Slide 10")|![Slide 11](Presentation%20Slides/Slide11.PNG?raw=true "Slide 11")|![Slide 12](Presentation%20Slides/Slide12.PNG?raw=true "Slide 12")|
 | ![Slide 13](Presentation%20Slides/Slide13.PNG?raw=true "Slide 13")|![Slide 14](Presentation%20Slides/Slide14.PNG?raw=true "Slide 14")|![Slide 15](Presentation%20Slides/Slide15.PNG?raw=true "Slide 15")|
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/mascarenhasneil/Boston-Property-Assessment/issues) for a list of proposed features (and known issues)
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GPL v3 License. See **[LICENSE](https://github.com/mascarenhasneil/Boston-Property-Assessment/blob/main/LICENSE)** for more information.
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
+https://github.com/mascarenhasneil/Boston-Property-Assessment
+-->
+[contributors-shield]: https://img.shields.io/github/contributors/mascarenhasneil/Boston-Property-Assessment.svg?style=flat-square
+[contributors-url]: https://github.com/mascarenhasneil/Boston-Property-Assessment/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mascarenhasneil/Boston-Property-Assessment.svg?style=flat-square
+[forks-url]: https://github.com/mascarenhasneil/Boston-Property-Assessment/network/members
+[stars-shield]: https://img.shields.io/github/stars/mascarenhasneil/Boston-Property-Assessment.svg?style=flat-square
+[stars-url]: https://github.com/mascarenhasneil/Boston-Property-Assessment/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mascarenhasneil/Boston-Property-Assessment.svg?style=flat-square
+[issues-url]: https://github.com/mascarenhasneil/Boston-Property-Assessment/issues
+[license-shield]: https://img.shields.io/github/license/mascarenhasneil/Boston-Property-Assessment.svg?style=flat-square
+[license-url]: https://github.com/mascarenhasneil/Boston-Property-Assessment/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/mascarenhasneil
