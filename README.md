@@ -87,6 +87,33 @@ Distributed under the GPL v3 License. See **[LICENSE](https://github.com/mascare
 Project Link: [https://mascarenhasneil.github.io/Boston-Property-Assessment/](https://mascarenhasneil.github.io/Boston-Property-Assessment/)
 
 
+## References
+<details>
+  <summary>Click to expand!</summary>
+  
+  
+  1. *40 Techniques Used by Data Scientists. (2020). Data Science Central.*
+https://www.datasciencecentral.com/profiles/blogs/40-techniques-used-by-data-scientists
+  1. Bhattacharyya, S. (2020, September 28). *Ridge and Lasso Regression: L1 and L2* Regularization. Medium. https://towardsdatascience.com/ridge-and-lasso-regression-acomplete-guide-with-python-scikit-learn-e20e34bcbf0b
+  1. Brendel, C. (2021, December 14). *Quickly Compare Multiple Models - Towards Data Science.* Medium. https://towardsdatascience.com/quickly-test-multiple-models-a98477476f0
+  1. Brownlee, J. (2021, April 27). *How to Develop a Light Gradient Boosted Machine (LightGBM)* Ensemble. Machine Learning Mastery. https://machinelearningmastery.com/lightgradient-boosted-machine-lightgbm-ensemble/
+  1. *ConvergenceWarning: lbfgs failed to converge (status=1): STOP: TOTAL NO. of ITERATIONS*
+   REACHED LIMIT. (2020, June 30). Stack Overflow. Retrieved December 5, 2021, from https://stackoverflow.com/questions/62658215/convergencewarning-lbfgs-failed-toconverge-status-1-stop-total-no-of-iter
+  1. Duca, A. L. (2021, October 24). *Data Preprocessing with Python Pandas — Part 5 Binning.* Medium. https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950
+  1. *How can I determine the optimal binning system for a continuous variable in Python?* (2020, December 8). Cross Validated. Retrieved December 5, 2021, from https://stats.stackexchange.com/questions/499941/how-can-i-determine-the-optimalbinning-system-for-a-continuous-variable-in-pyth
+  1. Malik, U. (2021, December 1). *Principal Component Analysis (PCA) in Python with ScikitLearn.* Stack Abuse. Retrieved December 3, 2021, from https://stackabuse.com/implementing-pca-in-python-with-scikit-learn/
+  1. Miller, T. W. (2021). *Modeling Techniques In Predictive Analytics With Python And R: A Guide To Data Science* (1st ed.) [E-book]. Pearson Education.
+  1. N. (2021, October 29). *Key data science modeling techniques used in data evaluation and analysis.* Selerity. https://seleritysas.com/blog/2021/01/22/key-data-science-modelingtechniques-used-in-data-evaluation-and-analysis/
+  1. *sklearn.feature_selection.SequentialFeatureSelector.* (2010). Scikit-Learn. Retrieved December 4, 2021, from https://scikitlearn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html
+  1. *sklearn.linear_model.LogisticRegression.* (n.d.). Scikit-Learn. Retrieved December 4, 2021, from https://scikitlearn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+  1. statsmodels Principal Component Analysis — statsmodels. (n.d.). StatsModel. Retrieved December 4, 2021, from https://www.statsmodels.org/dev/examples/notebooks/generated/pca_fertility_factors.html
+  1. *What is the difference between pandas.qcut and pandas.cut?* (2015, May 13). Stack Overflow. Retrieved December 5, 2021, from https://stackoverflow.com/questions/30211923/whatis-the-difference-between-pandas-qcut-and-pandas-cut
+  1. Wijaya, C. Y. (2021, October 12). *5 Feature Selection Method from Scikit-Learn you should know.* Medium. Retrieved December 5, 2021, from https://towardsdatascience.com/5-feature-selection-method-from-scikit-learn-you-should-know-ed4d116e4172
+
+  
+</details>
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
