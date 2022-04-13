@@ -75,6 +75,18 @@ Distributed under the GPL v3 License. See **[LICENSE](https://github.com/mascare
 
 
 
+<!-- CONTACT -->
+## Contact
+
+### Team Members:  
+1. Neil Mascarenhas - [About me?](https://about.me/neilmascarenhas)
+1. Sagar Mordiya
+1. Tejal Ambilwade
+
+
+Project Link: [https://mascarenhasneil.github.io/Boston-Property-Assessment/](https://mascarenhasneil.github.io/Boston-Property-Assessment/)
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
