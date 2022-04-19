@@ -26,7 +26,7 @@
     This is Final Capstone Project for ALY6040 Data Mining Fall 2021 CPS. <br> Primarily to learn Data Analytics, Data Mining and Python.
     <p align="justify"><br />Residential and commercial properties were assessed in Boston. The Boston Globe reported in May 2021 that the competitive Boston housing market drives up costs. As the pandemic continues, people demand larger homes. Finding a home became more difficult as most property managers and realtors could not display their properties to several people. This post was written to help individuals, realtors, and real estate brokers find a property at a reasonable price. We selected to use a few basic machine learning concepts to help us determine the best selling price for the house based on the amount of rooms, location, design, and other characteristics about the bath and kitchen. We only focused on residential property because it was in demand. This study's goal was to improve on initial EDA work by constructing predictive models that solved our business concerns. Finally, optimizing the model's performance.
     <br /></p>
-    <a href="https://github.com/mascarenhasneil/Boston-Property-Assessment/blob/main/Readme.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mascarenhasneil/Boston-Property-Assessment/blob/main/Assessment%20Report.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://mascarenhasneil.github.io/Boston-Property-Assessment/">View Paper Online</a>
@@ -79,9 +79,9 @@ Distributed under the GPL v3 License. See **[LICENSE](https://github.com/mascare
 ## Contact
 
 ### Team Members:  
-1. Neil Mascarenhas - [About me?](https://about.me/neilmascarenhas)
-1. Sagar Mordiya
-1. Tejal Ambilwade
+1. Neil Mascarenhas - [About me?](https://about.me/neilmascarenhas) | [Github](https://github.com/mascarenhasneil)
+1. Sagar Mordiya - [Github](https://github.com/SagarDMordiya) 
+1. Tejal Ambilwade - [Github](https://github.com/Tejal87)
 
 
 Project Link: [https://mascarenhasneil.github.io/Boston-Property-Assessment/](https://mascarenhasneil.github.io/Boston-Property-Assessment/)
